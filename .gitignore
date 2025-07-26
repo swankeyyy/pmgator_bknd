@@ -130,7 +130,6 @@ celerybeat.pid
 # Environments
 
 .venv
-.venv/
 env/
 venv/
 ENV/
@@ -176,8 +175,3 @@ cython_debug/
 .idea
 /.idea/
 .idea/
-/app/images/
-
-.env
-.env/
-/.env/
